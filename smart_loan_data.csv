@@ -1,0 +1,1001 @@
+Age,Gender,Education,Employment,Monthly_Income,Credit_Score,Loan_Amount,Loan_Term,Existing_Loan,Property_Area,Loan_Status
+59,Female,Graduate,Salaried,35176,568,332117,36,No,Semiurban,0
+49,Male,Graduate,Salaried,59386,714,348780,24,No,Urban,1
+35,Male,Graduate,Salaried,78972,544,433936,36,No,Semiurban,0
+28,Female,Not Graduate,Salaried,69482,359,493444,36,Yes,Semiurban,0
+41,Male,Graduate,Salaried,39255,305,583498,36,No,Rural,0
+59,Male,Not Graduate,Self-Employed,56003,706,313286,60,Yes,Semiurban,1
+39,Female,Not Graduate,Salaried,34996,516,137052,60,Yes,Semiurban,0
+43,Male,Graduate,Salaried,50386,325,550985,60,No,Urban,0
+31,Male,Graduate,Salaried,36062,304,146032,60,Yes,Urban,0
+31,Female,Graduate,Salaried,50931,831,581937,48,No,Rural,1
+44,Female,Graduate,Salaried,73632,689,395830,24,Yes,Semiurban,1
+56,Male,Graduate,Salaried,50710,747,439125,60,No,Semiurban,1
+44,Male,Graduate,Self-Employed,72563,445,198802,48,No,Semiurban,0
+23,Female,Graduate,Salaried,49693,687,556477,24,No,Rural,1
+42,Female,Not Graduate,Salaried,50740,548,496025,60,Yes,Semiurban,0
+22,Male,Not Graduate,Salaried,26705,825,334337,24,Yes,Urban,0
+44,Female,Not Graduate,Self-Employed,58408,761,272857,60,No,Rural,1
+50,Male,Graduate,Self-Employed,43047,312,529763,48,Yes,Urban,0
+58,Male,Graduate,Self-Employed,25966,683,404962,36,No,Urban,0
+22,Male,Graduate,Salaried,32374,698,462566,36,No,Rural,1
+41,Male,Not Graduate,Salaried,26138,318,434071,24,Yes,Urban,0
+53,Male,Graduate,Salaried,65964,790,296753,48,Yes,Semiurban,1
+32,Female,Not Graduate,Salaried,30935,718,441609,36,No,Rural,1
+42,Female,Graduate,Self-Employed,60913,636,320934,60,No,Urban,0
+45,Female,Graduate,Salaried,73147,718,326599,36,No,Semiurban,1
+47,Female,Not Graduate,Self-Employed,15489,421,213221,24,No,Semiurban,0
+48,Male,Graduate,Self-Employed,59516,731,399477,24,No,Urban,1
+36,Male,Not Graduate,Salaried,37260,343,226457,48,Yes,Semiurban,0
+35,Male,Not Graduate,Self-Employed,41069,616,378720,24,No,Rural,0
+23,Male,Graduate,Salaried,67797,680,219875,36,No,Urban,1
+57,Female,Graduate,Salaried,71233,444,401549,36,Yes,Semiurban,0
+27,Male,Graduate,Salaried,34275,626,456144,36,Yes,Semiurban,0
+41,Male,Not Graduate,Salaried,74049,662,566995,36,Yes,Urban,1
+29,Female,Graduate,Salaried,51284,349,131601,48,Yes,Urban,0
+59,Female,Graduate,Salaried,67492,364,430090,60,No,Urban,0
+38,Female,Graduate,Salaried,54178,654,560572,60,Yes,Urban,1
+24,Female,Not Graduate,Salaried,47821,463,414260,48,Yes,Rural,0
+45,Male,Graduate,Salaried,66727,440,594041,24,Yes,Urban,0
+34,Male,Not Graduate,Salaried,75935,427,204186,60,No,Rural,0
+29,Female,Not Graduate,Salaried,31999,697,425038,24,No,Rural,1
+46,Male,Graduate,Salaried,77522,762,265707,60,No,Urban,1
+22,Male,Graduate,Self-Employed,53712,486,369609,24,Yes,Rural,0
+40,Male,Not Graduate,Self-Employed,79551,489,156754,48,No,Urban,0
+48,Female,Graduate,Self-Employed,55172,687,329047,36,No,Urban,1
+27,Male,Not Graduate,Self-Employed,48722,728,192850,24,Yes,Semiurban,1
+28,Female,Graduate,Salaried,25625,583,471909,36,Yes,Urban,0
+55,Male,Graduate,Self-Employed,16629,536,316191,24,Yes,Semiurban,0
+34,Male,Not Graduate,Salaried,25973,493,454835,24,Yes,Rural,0
+37,Male,Graduate,Salaried,21859,586,138871,24,No,Semiurban,0
+56,Female,Graduate,Self-Employed,56609,435,293946,24,No,Rural,0
+24,Male,Graduate,Salaried,58307,470,570949,24,No,Urban,0
+22,Female,Graduate,Self-Employed,60450,458,391655,36,No,Rural,0
+26,Female,Graduate,Self-Employed,51046,500,443104,24,No,Rural,0
+24,Female,Graduate,Self-Employed,36839,786,542037,36,No,Urban,1
+49,Male,Not Graduate,Self-Employed,42216,803,427920,48,No,Rural,1
+38,Male,Graduate,Salaried,67953,670,349200,60,Yes,Urban,1
+46,Male,Graduate,Salaried,33945,402,301239,24,Yes,Semiurban,0
+54,Male,Graduate,Salaried,75593,424,568351,60,No,Urban,0
+30,Female,Not Graduate,Salaried,21539,612,406606,36,Yes,Urban,0
+56,Female,Graduate,Salaried,64522,757,554598,48,Yes,Rural,1
+34,Female,Not Graduate,Self-Employed,48625,529,583410,48,No,Semiurban,0
+51,Male,Graduate,Self-Employed,19886,496,334453,48,No,Urban,0
+35,Female,Graduate,Salaried,60713,722,132574,60,No,Semiurban,1
+28,Male,Graduate,Salaried,22485,470,202072,36,No,Semiurban,0
+34,Female,Graduate,Salaried,46455,681,535126,24,No,Rural,1
+43,Male,Graduate,Salaried,61448,472,304603,24,No,Urban,0
+41,Male,Graduate,Self-Employed,31767,752,256258,36,No,Rural,1
+36,Female,Not Graduate,Salaried,62165,649,587997,60,No,Urban,0
+38,Female,Graduate,Salaried,43453,793,253885,24,No,Semiurban,1
+44,Female,Graduate,Salaried,25744,303,309884,36,No,Urban,0
+46,Female,Graduate,Salaried,52102,392,316597,24,No,Urban,0
+45,Male,Not Graduate,Salaried,68442,305,440426,48,No,Semiurban,0
+49,Female,Graduate,Salaried,66877,587,209779,24,Yes,Semiurban,0
+35,Female,Graduate,Salaried,27226,445,118557,60,Yes,Urban,0
+21,Female,Graduate,Salaried,42869,723,259132,36,Yes,Rural,1
+45,Male,Not Graduate,Salaried,37588,756,552082,60,No,Urban,1
+27,Male,Graduate,Self-Employed,28440,501,434248,36,Yes,Semiurban,0
+29,Female,Graduate,Salaried,46709,511,331977,48,Yes,Rural,0
+44,Male,Not Graduate,Salaried,62788,305,577793,36,No,Semiurban,0
+21,Female,Not Graduate,Salaried,37495,675,237152,24,Yes,Semiurban,1
+28,Male,Graduate,Self-Employed,52019,746,244926,24,No,Rural,1
+44,Male,Not Graduate,Salaried,59948,405,484157,48,Yes,Semiurban,0
+31,Male,Graduate,Self-Employed,79889,700,298767,36,No,Semiurban,1
+37,Male,Graduate,Salaried,63908,395,258097,48,No,Semiurban,0
+28,Female,Graduate,Salaried,15922,687,284054,24,No,Semiurban,0
+55,Female,Graduate,Salaried,67067,751,141081,60,No,Semiurban,1
+55,Female,Graduate,Salaried,42526,715,497584,48,No,Semiurban,1
+53,Male,Not Graduate,Self-Employed,22957,803,330693,60,Yes,Semiurban,0
+25,Female,Graduate,Salaried,78049,753,481325,60,Yes,Semiurban,1
+59,Female,Graduate,Salaried,67198,590,389238,36,Yes,Semiurban,0
+48,Female,Graduate,Salaried,63564,833,539256,48,No,Urban,1
+27,Male,Not Graduate,Salaried,73318,492,428910,60,No,Urban,0
+29,Male,Graduate,Salaried,48998,449,445197,60,No,Semiurban,0
+28,Male,Graduate,Salaried,58395,814,255063,36,Yes,Urban,1
+32,Female,Graduate,Self-Employed,39031,692,363445,36,No,Rural,1
+54,Female,Graduate,Salaried,25006,615,259682,24,No,Urban,0
+53,Female,Not Graduate,Salaried,75278,375,181463,60,No,Semiurban,0
+43,Male,Not Graduate,Self-Employed,52701,569,265750,24,No,Semiurban,0
+44,Male,Graduate,Salaried,62063,524,386610,60,Yes,Urban,0
+57,Female,Not Graduate,Self-Employed,40939,829,573656,24,No,Semiurban,1
+55,Male,Graduate,Salaried,64145,412,534091,36,No,Rural,0
+42,Male,Not Graduate,Self-Employed,35324,550,126081,48,Yes,Rural,0
+47,Male,Graduate,Salaried,37867,532,124354,36,Yes,Semiurban,0
+55,Male,Graduate,Self-Employed,15203,382,193297,24,No,Rural,0
+21,Female,Graduate,Self-Employed,31544,424,380444,24,No,Rural,0
+55,Male,Graduate,Salaried,30899,474,164384,48,No,Urban,0
+57,Male,Graduate,Self-Employed,44063,368,457171,60,Yes,Rural,0
+34,Male,Graduate,Salaried,40344,346,221684,24,No,Urban,0
+23,Male,Graduate,Salaried,18748,555,423036,24,No,Semiurban,0
+21,Female,Not Graduate,Salaried,54486,329,135525,24,No,Urban,0
+25,Female,Graduate,Salaried,66733,580,519748,48,No,Semiurban,0
+46,Male,Graduate,Salaried,16093,536,106464,36,Yes,Semiurban,0
+34,Male,Not Graduate,Salaried,30228,547,116562,24,No,Semiurban,0
+59,Male,Graduate,Salaried,35884,667,469536,48,Yes,Semiurban,1
+47,Male,Graduate,Self-Employed,40183,794,155514,24,No,Semiurban,1
+29,Male,Graduate,Self-Employed,31034,324,475572,60,No,Urban,0
+35,Male,Not Graduate,Salaried,20710,789,212564,48,No,Semiurban,0
+35,Female,Graduate,Salaried,57500,793,470191,24,No,Rural,1
+46,Male,Graduate,Salaried,34259,613,567435,48,No,Rural,0
+33,Female,Not Graduate,Salaried,50959,674,132634,24,No,Semiurban,1
+52,Female,Not Graduate,Salaried,65989,324,362204,36,No,Rural,0
+59,Male,Graduate,Salaried,48457,633,371413,24,No,Urban,0
+52,Female,Graduate,Salaried,35143,654,294215,48,No,Urban,1
+24,Female,Graduate,Self-Employed,75293,415,123065,60,No,Semiurban,0
+50,Female,Not Graduate,Salaried,77680,347,365039,60,Yes,Semiurban,0
+57,Female,Graduate,Salaried,17103,398,443003,60,No,Semiurban,0
+43,Female,Graduate,Salaried,15365,758,243424,24,Yes,Rural,0
+59,Female,Not Graduate,Salaried,61778,822,542953,36,No,Rural,1
+35,Male,Graduate,Salaried,59535,704,204127,24,Yes,Urban,1
+49,Female,Graduate,Salaried,31103,513,196426,60,No,Rural,0
+56,Female,Graduate,Salaried,47510,802,525232,48,No,Urban,1
+33,Female,Graduate,Salaried,39476,747,292376,60,No,Rural,1
+52,Male,Graduate,Self-Employed,27742,557,111962,48,No,Urban,0
+27,Female,Graduate,Self-Employed,27391,420,133302,36,Yes,Semiurban,0
+42,Male,Graduate,Salaried,51940,353,447526,48,Yes,Rural,0
+48,Female,Graduate,Salaried,43901,630,104011,24,Yes,Urban,0
+22,Male,Not Graduate,Salaried,70185,540,491860,24,No,Rural,0
+26,Male,Graduate,Salaried,47001,829,119782,24,No,Semiurban,1
+48,Female,Not Graduate,Salaried,30623,782,298763,48,No,Urban,1
+48,Female,Graduate,Salaried,17378,486,220654,24,Yes,Rural,0
+40,Male,Not Graduate,Salaried,65357,561,532941,24,Yes,Rural,0
+50,Female,Not Graduate,Salaried,36372,663,109196,24,No,Semiurban,1
+31,Male,Graduate,Salaried,59799,790,143459,36,No,Semiurban,1
+48,Male,Not Graduate,Self-Employed,53437,730,187245,48,No,Urban,1
+45,Male,Not Graduate,Self-Employed,50503,538,178863,48,No,Rural,0
+59,Male,Graduate,Self-Employed,45746,603,485350,60,No,Rural,0
+53,Male,Graduate,Salaried,42923,597,350463,48,Yes,Semiurban,0
+21,Female,Graduate,Self-Employed,24867,375,463154,36,No,Semiurban,0
+47,Male,Not Graduate,Salaried,56258,632,132769,48,No,Urban,0
+33,Male,Not Graduate,Self-Employed,48724,773,469673,36,Yes,Rural,1
+23,Female,Not Graduate,Salaried,79286,582,356433,36,No,Rural,0
+59,Male,Graduate,Self-Employed,24306,371,124700,48,Yes,Urban,0
+26,Female,Not Graduate,Salaried,54391,562,346864,60,No,Urban,0
+28,Female,Graduate,Self-Employed,29908,311,311428,24,Yes,Semiurban,0
+47,Female,Graduate,Self-Employed,42081,440,569643,24,No,Semiurban,0
+29,Male,Graduate,Salaried,65626,316,331237,48,Yes,Urban,0
+57,Male,Graduate,Salaried,52228,362,367413,48,No,Urban,0
+53,Male,Graduate,Self-Employed,38386,552,483775,36,No,Rural,0
+44,Female,Graduate,Salaried,61754,764,406024,48,No,Urban,1
+35,Male,Graduate,Self-Employed,60406,675,214003,36,No,Urban,1
+52,Female,Graduate,Salaried,43302,819,239392,60,No,Rural,1
+52,Male,Graduate,Salaried,75815,389,149589,48,Yes,Urban,0
+44,Female,Graduate,Salaried,70548,474,350606,24,Yes,Semiurban,0
+32,Male,Graduate,Salaried,34212,375,307348,24,Yes,Semiurban,0
+59,Male,Graduate,Self-Employed,78344,699,135897,48,No,Rural,1
+22,Male,Graduate,Salaried,50618,370,289637,36,Yes,Urban,0
+23,Female,Graduate,Salaried,61067,479,262002,24,No,Semiurban,0
+57,Female,Graduate,Salaried,25698,423,288305,36,No,Semiurban,0
+37,Male,Graduate,Salaried,76114,680,313893,48,Yes,Semiurban,1
+22,Male,Graduate,Self-Employed,67116,592,376524,48,Yes,Semiurban,0
+22,Female,Graduate,Self-Employed,19594,494,307968,24,Yes,Urban,0
+48,Female,Not Graduate,Salaried,40525,527,170934,48,No,Urban,0
+43,Female,Graduate,Self-Employed,29282,730,155830,60,Yes,Urban,0
+57,Male,Graduate,Self-Employed,64053,735,367673,60,Yes,Urban,1
+52,Female,Graduate,Salaried,29334,760,352364,24,No,Semiurban,0
+53,Male,Graduate,Self-Employed,44179,320,456742,60,No,Rural,0
+21,Female,Graduate,Salaried,77767,363,333294,36,Yes,Rural,0
+39,Male,Graduate,Salaried,21644,464,182987,24,Yes,Semiurban,0
+22,Female,Graduate,Self-Employed,50618,326,149178,24,Yes,Semiurban,0
+46,Female,Graduate,Salaried,62701,610,238009,36,No,Rural,0
+52,Female,Graduate,Self-Employed,47933,584,484096,60,No,Rural,0
+26,Female,Not Graduate,Self-Employed,75830,580,139886,60,Yes,Semiurban,0
+52,Female,Not Graduate,Salaried,58469,463,149699,60,Yes,Semiurban,0
+24,Male,Not Graduate,Self-Employed,48687,523,176396,24,No,Urban,0
+31,Female,Not Graduate,Salaried,56073,445,190678,24,No,Urban,0
+37,Female,Graduate,Salaried,67656,329,125279,60,Yes,Rural,0
+58,Female,Graduate,Salaried,32375,344,531322,48,No,Semiurban,0
+44,Male,Graduate,Self-Employed,63483,770,210776,60,Yes,Rural,1
+25,Female,Graduate,Salaried,70199,333,201444,36,Yes,Urban,0
+54,Male,Not Graduate,Salaried,45926,726,468444,24,No,Urban,1
+26,Female,Graduate,Self-Employed,51607,520,213793,36,No,Rural,0
+42,Female,Not Graduate,Self-Employed,32642,833,478422,36,No,Urban,1
+31,Male,Graduate,Self-Employed,38993,666,310809,24,No,Semiurban,1
+36,Female,Not Graduate,Salaried,59386,849,271616,48,No,Rural,1
+53,Male,Graduate,Salaried,72858,415,465391,60,No,Semiurban,0
+29,Male,Graduate,Salaried,61287,538,342262,36,No,Semiurban,0
+26,Female,Graduate,Self-Employed,36188,634,108997,24,No,Urban,0
+36,Male,Graduate,Salaried,47596,740,206102,36,No,Semiurban,1
+49,Female,Graduate,Salaried,42772,447,447855,60,Yes,Rural,0
+23,Female,Graduate,Self-Employed,45857,308,478189,48,No,Semiurban,0
+40,Male,Not Graduate,Salaried,76778,587,140860,48,No,Semiurban,0
+56,Male,Graduate,Self-Employed,25776,687,365369,48,No,Semiurban,0
+39,Male,Graduate,Self-Employed,47835,349,210114,24,Yes,Semiurban,0
+46,Male,Graduate,Self-Employed,24788,816,552686,24,No,Semiurban,0
+23,Female,Not Graduate,Salaried,20660,577,213218,48,No,Urban,0
+39,Female,Graduate,Salaried,19478,599,462908,60,Yes,Rural,0
+40,Male,Graduate,Self-Employed,23210,434,207041,60,No,Urban,0
+52,Female,Graduate,Self-Employed,25922,446,474368,24,Yes,Rural,0
+27,Female,Graduate,Self-Employed,51289,789,425800,48,Yes,Rural,1
+53,Female,Graduate,Salaried,78561,777,545096,60,No,Rural,1
+59,Female,Graduate,Self-Employed,48340,458,292150,60,No,Rural,0
+38,Male,Graduate,Self-Employed,54850,683,581862,60,No,Rural,1
+21,Male,Not Graduate,Self-Employed,71984,462,176290,24,Yes,Semiurban,0
+31,Female,Graduate,Self-Employed,53163,740,156633,48,No,Urban,1
+48,Male,Graduate,Self-Employed,63175,488,388799,36,Yes,Urban,0
+45,Male,Graduate,Salaried,33642,714,221118,48,Yes,Semiurban,1
+43,Male,Not Graduate,Salaried,26094,638,274673,48,Yes,Rural,0
+51,Female,Graduate,Salaried,37423,480,103114,24,No,Urban,0
+50,Female,Not Graduate,Salaried,48418,587,388646,60,No,Semiurban,0
+55,Female,Graduate,Salaried,20741,486,149768,60,No,Semiurban,0
+27,Male,Graduate,Salaried,61049,437,410272,24,No,Urban,0
+36,Female,Graduate,Salaried,21838,429,513244,24,Yes,Urban,0
+46,Female,Not Graduate,Salaried,66739,493,548781,24,No,Rural,0
+22,Male,Graduate,Salaried,72028,615,183123,24,No,Rural,0
+21,Female,Not Graduate,Self-Employed,18262,443,208255,24,No,Urban,0
+32,Female,Not Graduate,Self-Employed,65490,315,266405,36,Yes,Rural,0
+25,Male,Graduate,Salaried,19996,601,103174,48,No,Semiurban,0
+57,Male,Graduate,Self-Employed,59594,722,217769,48,No,Rural,1
+52,Male,Graduate,Salaried,37164,544,397542,48,No,Rural,0
+29,Female,Graduate,Salaried,50595,406,529145,60,No,Semiurban,0
+55,Female,Not Graduate,Salaried,45257,387,235393,36,Yes,Rural,0
+39,Female,Not Graduate,Salaried,29211,428,485693,48,No,Semiurban,0
+36,Male,Graduate,Self-Employed,45453,640,327043,60,Yes,Rural,0
+23,Male,Graduate,Self-Employed,20232,303,342580,36,No,Urban,0
+40,Female,Not Graduate,Salaried,17217,626,286493,36,No,Rural,0
+44,Female,Graduate,Salaried,67691,709,172635,60,Yes,Urban,1
+53,Male,Not Graduate,Salaried,39229,605,385904,36,No,Urban,0
+44,Male,Graduate,Salaried,29232,524,504576,60,No,Urban,0
+31,Male,Graduate,Salaried,40613,647,241385,48,Yes,Urban,0
+28,Male,Graduate,Salaried,29026,620,492818,60,No,Urban,0
+56,Female,Graduate,Self-Employed,68535,480,342878,36,Yes,Semiurban,0
+58,Male,Graduate,Self-Employed,43554,685,317070,48,No,Semiurban,1
+40,Female,Graduate,Salaried,45908,407,499017,48,No,Semiurban,0
+55,Female,Graduate,Self-Employed,67113,830,376274,24,No,Urban,1
+45,Female,Not Graduate,Salaried,34610,709,507487,24,No,Rural,1
+55,Male,Not Graduate,Salaried,61646,595,509291,36,No,Semiurban,0
+45,Male,Graduate,Salaried,54605,470,595671,60,No,Rural,0
+49,Male,Graduate,Salaried,78185,630,469359,60,Yes,Rural,0
+38,Male,Graduate,Self-Employed,22031,792,250056,36,No,Urban,0
+38,Female,Graduate,Salaried,62574,494,450239,48,No,Urban,0
+22,Male,Graduate,Salaried,73442,311,423086,36,Yes,Urban,0
+55,Male,Graduate,Salaried,74668,494,243933,36,No,Semiurban,0
+36,Female,Graduate,Salaried,40515,789,198970,48,No,Urban,1
+56,Male,Graduate,Self-Employed,51484,481,182203,60,No,Semiurban,0
+53,Female,Graduate,Salaried,51182,615,564592,36,Yes,Semiurban,0
+24,Female,Graduate,Salaried,65600,329,292319,60,Yes,Semiurban,0
+53,Female,Not Graduate,Salaried,15570,395,300173,36,Yes,Semiurban,0
+34,Female,Graduate,Salaried,47254,680,252049,48,No,Urban,1
+41,Female,Graduate,Salaried,34288,743,543833,48,Yes,Semiurban,1
+40,Female,Graduate,Self-Employed,28288,597,550689,24,No,Urban,0
+28,Female,Graduate,Salaried,44877,660,317726,48,Yes,Urban,1
+27,Female,Not Graduate,Self-Employed,33889,673,450321,24,No,Semiurban,1
+23,Male,Graduate,Self-Employed,15917,602,172902,36,Yes,Urban,0
+37,Male,Not Graduate,Self-Employed,25066,720,192172,60,No,Rural,0
+53,Male,Graduate,Salaried,44504,545,246702,48,Yes,Urban,0
+32,Male,Graduate,Salaried,79575,536,120056,48,No,Urban,0
+42,Female,Not Graduate,Salaried,21982,833,238454,48,Yes,Semiurban,0
+42,Male,Graduate,Self-Employed,71579,484,155739,36,No,Semiurban,0
+50,Female,Graduate,Salaried,54104,767,443829,24,No,Urban,1
+58,Male,Graduate,Salaried,33062,662,148639,36,Yes,Semiurban,1
+58,Male,Graduate,Salaried,31999,582,553054,60,No,Rural,0
+28,Male,Not Graduate,Salaried,76845,635,539257,36,No,Rural,0
+47,Female,Graduate,Salaried,24941,461,363136,60,Yes,Semiurban,0
+47,Male,Graduate,Salaried,76169,459,172394,48,No,Urban,0
+54,Female,Graduate,Self-Employed,38470,773,429801,60,Yes,Rural,1
+41,Female,Graduate,Salaried,79208,621,389304,60,No,Rural,0
+50,Male,Graduate,Salaried,60148,311,407300,24,No,Urban,0
+53,Male,Graduate,Salaried,74821,723,282447,60,Yes,Semiurban,1
+48,Male,Graduate,Salaried,36133,372,448586,60,No,Rural,0
+53,Female,Not Graduate,Salaried,67657,500,250644,36,No,Urban,0
+25,Male,Graduate,Self-Employed,59435,821,480069,48,No,Urban,1
+39,Female,Graduate,Salaried,19529,804,104136,36,No,Rural,0
+24,Female,Not Graduate,Self-Employed,32519,338,161868,36,No,Semiurban,0
+55,Male,Graduate,Salaried,27192,359,444407,48,No,Rural,0
+37,Male,Graduate,Salaried,23566,620,394311,48,Yes,Urban,0
+48,Female,Graduate,Self-Employed,22226,734,210957,60,No,Rural,0
+50,Female,Graduate,Salaried,52930,707,115479,60,No,Semiurban,1
+49,Female,Graduate,Salaried,64358,685,219392,24,No,Urban,1
+26,Male,Not Graduate,Salaried,36259,377,262448,36,No,Semiurban,0
+55,Female,Graduate,Salaried,49087,493,235895,48,No,Rural,0
+57,Male,Graduate,Self-Employed,16141,584,356228,60,No,Rural,0
+44,Female,Not Graduate,Salaried,19627,826,301528,48,No,Semiurban,0
+49,Female,Graduate,Self-Employed,71541,823,381729,60,Yes,Rural,1
+51,Male,Graduate,Self-Employed,62269,455,334847,24,No,Semiurban,0
+55,Female,Graduate,Salaried,17690,639,510488,24,No,Rural,0
+53,Male,Not Graduate,Self-Employed,55091,424,388763,48,Yes,Semiurban,0
+41,Male,Graduate,Salaried,18255,579,437213,24,No,Semiurban,0
+52,Female,Graduate,Self-Employed,72433,427,402039,48,No,Urban,0
+43,Male,Graduate,Salaried,20213,613,365864,60,Yes,Urban,0
+53,Male,Graduate,Self-Employed,51876,631,381411,36,Yes,Semiurban,0
+23,Female,Graduate,Salaried,34404,449,246768,24,Yes,Rural,0
+38,Male,Graduate,Salaried,66009,753,261040,60,No,Rural,1
+45,Male,Not Graduate,Salaried,40380,335,415508,36,Yes,Rural,0
+51,Male,Graduate,Self-Employed,40520,719,516561,36,Yes,Semiurban,1
+23,Female,Graduate,Salaried,34173,321,151567,36,No,Semiurban,0
+44,Male,Not Graduate,Salaried,78297,505,191229,60,Yes,Semiurban,0
+52,Female,Not Graduate,Self-Employed,68027,655,554823,60,Yes,Semiurban,1
+42,Female,Graduate,Self-Employed,38989,739,512601,48,Yes,Urban,1
+43,Male,Graduate,Self-Employed,57570,395,576874,36,No,Semiurban,0
+22,Male,Graduate,Self-Employed,39519,463,560116,36,No,Rural,0
+47,Male,Not Graduate,Self-Employed,75267,447,299316,36,Yes,Urban,0
+22,Female,Not Graduate,Self-Employed,37439,829,296497,48,No,Rural,1
+46,Male,Graduate,Salaried,68034,593,440662,36,No,Semiurban,0
+37,Male,Not Graduate,Salaried,26413,494,182844,60,Yes,Urban,0
+53,Male,Graduate,Self-Employed,29995,779,263991,36,Yes,Semiurban,0
+29,Male,Graduate,Salaried,38559,422,190697,24,Yes,Urban,0
+59,Male,Graduate,Salaried,77492,699,157196,60,No,Rural,1
+49,Female,Not Graduate,Salaried,60351,751,215600,48,No,Semiurban,1
+46,Female,Graduate,Self-Employed,38513,403,200625,36,Yes,Semiurban,0
+55,Male,Not Graduate,Salaried,20021,761,572617,24,No,Urban,0
+45,Male,Not Graduate,Salaried,47464,695,493711,48,Yes,Urban,1
+44,Male,Not Graduate,Salaried,36119,636,406899,48,No,Semiurban,0
+33,Male,Graduate,Salaried,66539,441,560900,60,No,Urban,0
+27,Female,Graduate,Salaried,44299,616,133324,48,Yes,Semiurban,0
+56,Male,Graduate,Salaried,54350,826,441073,48,No,Urban,1
+40,Female,Graduate,Salaried,61223,700,494768,48,Yes,Rural,1
+21,Female,Graduate,Self-Employed,40517,609,151272,48,No,Urban,0
+28,Male,Not Graduate,Salaried,28117,794,529069,36,Yes,Rural,0
+36,Female,Graduate,Self-Employed,37250,408,349264,36,No,Urban,0
+34,Female,Graduate,Self-Employed,33950,671,263996,36,Yes,Urban,1
+32,Female,Graduate,Salaried,32359,505,436606,36,No,Semiurban,0
+43,Female,Graduate,Self-Employed,38596,342,327459,24,Yes,Urban,0
+35,Male,Graduate,Salaried,40530,544,254961,36,No,Urban,0
+48,Male,Graduate,Self-Employed,16262,586,336538,48,Yes,Rural,0
+54,Female,Not Graduate,Salaried,69199,654,154675,36,No,Urban,1
+22,Male,Graduate,Self-Employed,73287,775,173591,36,Yes,Semiurban,1
+52,Male,Not Graduate,Salaried,74546,382,563406,60,Yes,Rural,0
+43,Male,Not Graduate,Salaried,77644,409,253706,48,No,Semiurban,0
+42,Male,Graduate,Salaried,55150,489,394507,36,Yes,Semiurban,0
+45,Male,Not Graduate,Self-Employed,37615,550,294824,36,Yes,Semiurban,0
+42,Female,Graduate,Self-Employed,18327,590,439148,36,No,Semiurban,0
+42,Male,Not Graduate,Salaried,69782,500,549614,24,No,Rural,0
+26,Male,Graduate,Salaried,44768,625,329530,36,Yes,Urban,0
+35,Male,Not Graduate,Salaried,79418,810,402862,60,No,Semiurban,1
+57,Male,Not Graduate,Self-Employed,43850,708,213627,48,No,Rural,1
+53,Female,Not Graduate,Salaried,66411,807,313988,48,Yes,Semiurban,1
+28,Female,Not Graduate,Self-Employed,57788,371,389014,36,No,Urban,0
+25,Female,Graduate,Salaried,65409,546,137394,36,No,Rural,0
+59,Female,Graduate,Salaried,31848,643,414201,36,No,Rural,0
+24,Male,Graduate,Salaried,61830,353,179795,48,Yes,Urban,0
+26,Female,Graduate,Salaried,67446,827,442553,48,No,Rural,1
+52,Male,Graduate,Salaried,54542,831,375160,24,Yes,Urban,1
+50,Male,Graduate,Salaried,30160,492,142137,60,Yes,Rural,0
+55,Male,Not Graduate,Self-Employed,71583,357,493369,24,Yes,Rural,0
+36,Male,Graduate,Salaried,48998,736,238925,60,No,Urban,1
+33,Male,Not Graduate,Salaried,42230,410,112379,24,No,Urban,0
+50,Female,Graduate,Salaried,24076,428,509008,48,No,Rural,0
+39,Female,Not Graduate,Salaried,18805,625,221169,24,No,Rural,0
+37,Female,Not Graduate,Salaried,46085,307,269439,60,Yes,Urban,0
+39,Female,Graduate,Salaried,70571,328,249172,36,Yes,Urban,0
+48,Male,Graduate,Salaried,29715,411,226082,60,Yes,Rural,0
+46,Female,Not Graduate,Salaried,77772,430,475233,36,Yes,Rural,0
+57,Male,Graduate,Salaried,20750,487,556672,48,No,Rural,0
+46,Female,Graduate,Salaried,63395,774,111049,60,No,Urban,1
+43,Male,Graduate,Salaried,28232,663,494002,24,Yes,Rural,0
+29,Male,Graduate,Salaried,68008,503,563120,60,Yes,Semiurban,0
+32,Female,Graduate,Self-Employed,50903,511,261771,36,Yes,Urban,0
+21,Male,Graduate,Salaried,21953,575,484928,48,No,Rural,0
+21,Male,Graduate,Self-Employed,47093,372,409835,24,No,Urban,0
+54,Female,Graduate,Salaried,40500,542,268112,60,No,Semiurban,0
+52,Male,Not Graduate,Self-Employed,37418,401,349527,36,No,Urban,0
+45,Female,Graduate,Self-Employed,68741,470,324062,24,No,Rural,0
+21,Female,Not Graduate,Salaried,49314,487,157986,48,Yes,Semiurban,0
+36,Female,Graduate,Self-Employed,63225,740,531978,24,Yes,Semiurban,1
+59,Male,Graduate,Salaried,37449,385,254672,48,No,Rural,0
+25,Male,Graduate,Salaried,32478,775,456918,24,No,Rural,1
+42,Male,Graduate,Self-Employed,50179,351,321849,60,Yes,Rural,0
+49,Female,Graduate,Self-Employed,66769,410,513026,36,No,Urban,0
+23,Male,Graduate,Salaried,61881,342,316775,60,No,Urban,0
+32,Female,Graduate,Salaried,40338,510,580563,60,No,Urban,0
+46,Female,Graduate,Salaried,41899,499,205315,48,No,Rural,0
+36,Male,Graduate,Salaried,19145,325,419348,48,No,Rural,0
+57,Female,Graduate,Self-Employed,47101,598,382229,48,No,Urban,0
+42,Male,Graduate,Salaried,17775,376,277926,60,Yes,Semiurban,0
+49,Male,Not Graduate,Salaried,60961,436,568013,24,Yes,Urban,0
+34,Male,Graduate,Salaried,46647,319,315341,24,Yes,Semiurban,0
+48,Male,Graduate,Salaried,60619,739,270851,60,Yes,Rural,1
+25,Male,Not Graduate,Salaried,60838,510,287279,60,No,Rural,0
+50,Female,Graduate,Salaried,70780,734,325687,36,No,Urban,1
+25,Female,Graduate,Self-Employed,34539,506,396124,48,Yes,Urban,0
+32,Female,Not Graduate,Self-Employed,51738,738,418261,48,No,Rural,1
+36,Male,Graduate,Salaried,72124,341,245213,60,Yes,Urban,0
+46,Male,Graduate,Self-Employed,41616,710,240416,60,Yes,Rural,1
+46,Male,Graduate,Self-Employed,29119,822,598224,24,Yes,Rural,0
+41,Female,Graduate,Self-Employed,40159,726,115896,60,Yes,Semiurban,1
+59,Male,Graduate,Salaried,69567,574,189353,24,Yes,Urban,0
+56,Female,Graduate,Salaried,52099,747,129813,60,No,Rural,1
+53,Female,Graduate,Salaried,25295,668,315503,36,No,Urban,0
+50,Male,Graduate,Salaried,49710,519,165679,36,No,Semiurban,0
+57,Male,Not Graduate,Salaried,76799,531,241753,24,Yes,Semiurban,0
+43,Female,Not Graduate,Salaried,70178,627,303975,48,Yes,Urban,0
+30,Male,Graduate,Salaried,39685,742,365372,36,Yes,Urban,1
+25,Female,Graduate,Self-Employed,64343,351,497798,24,No,Rural,0
+56,Male,Graduate,Salaried,40479,675,309755,60,Yes,Semiurban,1
+54,Male,Graduate,Salaried,61172,562,373541,60,No,Semiurban,0
+51,Female,Graduate,Self-Employed,48629,566,532015,24,No,Semiurban,0
+30,Male,Graduate,Self-Employed,70863,658,399155,48,No,Urban,1
+39,Female,Not Graduate,Self-Employed,57043,616,179183,24,No,Rural,0
+52,Male,Graduate,Self-Employed,32033,623,455398,24,Yes,Urban,0
+21,Female,Graduate,Salaried,51902,720,537480,36,Yes,Urban,1
+25,Female,Graduate,Self-Employed,59571,345,142317,24,Yes,Urban,0
+24,Male,Graduate,Salaried,30408,568,278986,24,No,Rural,0
+36,Female,Not Graduate,Salaried,71739,680,315705,60,Yes,Urban,1
+44,Male,Not Graduate,Salaried,72980,417,464633,36,Yes,Semiurban,0
+36,Male,Not Graduate,Salaried,32420,415,276326,60,No,Semiurban,0
+22,Male,Graduate,Salaried,31351,559,402240,60,Yes,Semiurban,0
+48,Female,Graduate,Salaried,19131,374,415929,48,No,Rural,0
+52,Female,Graduate,Self-Employed,66300,779,152344,48,No,Urban,1
+47,Male,Graduate,Salaried,59825,604,346060,36,Yes,Rural,0
+40,Male,Graduate,Salaried,26349,306,575859,36,Yes,Urban,0
+44,Female,Not Graduate,Self-Employed,75931,665,482526,48,Yes,Semiurban,1
+32,Male,Graduate,Salaried,59254,822,299618,48,No,Urban,1
+55,Male,Graduate,Salaried,53225,647,564307,48,No,Urban,0
+53,Female,Graduate,Self-Employed,53847,737,558819,48,No,Urban,1
+53,Male,Graduate,Salaried,27453,514,259484,48,No,Rural,0
+57,Female,Graduate,Salaried,33814,728,210489,60,No,Urban,1
+32,Male,Not Graduate,Self-Employed,33263,797,544874,36,Yes,Urban,1
+23,Female,Not Graduate,Salaried,27158,839,593057,60,Yes,Urban,0
+21,Male,Not Graduate,Salaried,30735,666,542765,60,No,Rural,1
+53,Male,Graduate,Self-Employed,30830,612,358667,24,Yes,Rural,0
+30,Female,Graduate,Self-Employed,62893,837,111549,60,Yes,Rural,1
+49,Male,Graduate,Salaried,59673,353,564432,48,No,Urban,0
+33,Female,Graduate,Salaried,76470,840,125739,48,No,Semiurban,1
+32,Male,Not Graduate,Salaried,38926,766,383353,24,No,Semiurban,1
+51,Female,Graduate,Salaried,60066,463,207051,24,No,Semiurban,0
+22,Female,Graduate,Salaried,49779,633,581184,24,Yes,Urban,0
+55,Female,Graduate,Salaried,18373,846,115116,24,No,Semiurban,0
+43,Female,Graduate,Self-Employed,25335,647,120045,24,Yes,Semiurban,0
+37,Male,Not Graduate,Salaried,38741,572,519543,60,Yes,Semiurban,0
+46,Male,Graduate,Salaried,25692,713,135709,24,No,Urban,0
+28,Female,Graduate,Salaried,62295,799,405761,60,Yes,Semiurban,1
+49,Female,Graduate,Self-Employed,60541,392,553355,36,No,Semiurban,0
+46,Female,Graduate,Salaried,49057,378,257977,24,Yes,Urban,0
+30,Male,Not Graduate,Salaried,16447,516,557364,24,No,Rural,0
+46,Male,Not Graduate,Self-Employed,34583,657,303675,60,Yes,Semiurban,1
+54,Male,Not Graduate,Salaried,37765,806,329167,36,No,Rural,1
+27,Male,Not Graduate,Salaried,74287,480,481923,60,No,Semiurban,0
+24,Female,Graduate,Salaried,38906,545,405063,60,Yes,Urban,0
+31,Female,Graduate,Salaried,70211,543,445665,24,Yes,Rural,0
+49,Female,Graduate,Salaried,34567,805,586121,48,Yes,Rural,1
+56,Male,Graduate,Salaried,29139,721,576616,48,Yes,Rural,0
+45,Male,Not Graduate,Salaried,61525,619,319222,60,No,Rural,0
+41,Male,Graduate,Salaried,53230,386,289518,24,No,Semiurban,0
+56,Female,Not Graduate,Self-Employed,67368,516,283500,36,Yes,Semiurban,0
+30,Female,Graduate,Self-Employed,34520,789,541110,48,Yes,Rural,1
+57,Male,Graduate,Self-Employed,34702,818,574365,36,Yes,Semiurban,1
+29,Female,Graduate,Self-Employed,66934,577,368591,48,No,Rural,0
+44,Male,Not Graduate,Salaried,40566,468,105499,24,Yes,Rural,0
+55,Male,Graduate,Self-Employed,22657,629,139041,60,No,Urban,0
+55,Female,Graduate,Salaried,52688,740,393459,36,No,Rural,1
+56,Male,Graduate,Self-Employed,45134,690,232371,36,Yes,Semiurban,1
+38,Female,Graduate,Self-Employed,25345,795,482650,60,No,Rural,0
+59,Male,Graduate,Self-Employed,70476,680,598221,36,No,Urban,1
+52,Female,Not Graduate,Self-Employed,70479,605,236066,48,No,Semiurban,0
+44,Female,Graduate,Salaried,56185,812,326486,60,Yes,Urban,1
+43,Female,Graduate,Salaried,64928,487,312235,48,Yes,Urban,0
+52,Male,Graduate,Salaried,42413,815,357831,48,No,Rural,1
+57,Male,Graduate,Salaried,20208,726,500705,24,No,Urban,0
+32,Female,Not Graduate,Salaried,48455,801,453791,48,No,Urban,1
+33,Female,Graduate,Salaried,64681,559,394499,24,No,Semiurban,0
+43,Male,Graduate,Self-Employed,43018,812,435949,36,No,Urban,1
+45,Male,Graduate,Salaried,69219,370,430511,36,No,Rural,0
+55,Male,Not Graduate,Self-Employed,60991,777,472050,24,Yes,Rural,1
+50,Female,Not Graduate,Self-Employed,23080,477,479553,48,No,Rural,0
+37,Male,Graduate,Self-Employed,36902,756,439499,60,No,Urban,1
+40,Male,Graduate,Self-Employed,66305,488,216220,60,No,Semiurban,0
+45,Female,Graduate,Salaried,24486,590,321421,24,No,Rural,0
+42,Male,Not Graduate,Self-Employed,53862,819,449317,36,Yes,Urban,1
+33,Male,Graduate,Self-Employed,71126,591,364140,36,No,Rural,0
+39,Male,Graduate,Salaried,73870,582,351071,60,No,Rural,0
+56,Female,Graduate,Salaried,36158,843,406531,24,Yes,Semiurban,1
+32,Female,Graduate,Self-Employed,55460,676,103089,60,No,Rural,1
+39,Female,Graduate,Salaried,58856,455,460971,48,Yes,Semiurban,0
+32,Female,Not Graduate,Salaried,50871,807,382803,48,Yes,Urban,1
+29,Female,Graduate,Self-Employed,50208,712,407322,24,Yes,Rural,1
+27,Female,Graduate,Salaried,35519,827,195965,24,No,Urban,1
+48,Female,Graduate,Salaried,46379,654,181268,48,No,Urban,1
+34,Male,Not Graduate,Self-Employed,79729,486,447186,36,No,Urban,0
+51,Male,Graduate,Salaried,43378,330,468615,24,No,Rural,0
+39,Female,Not Graduate,Salaried,54892,559,301798,48,No,Semiurban,0
+36,Male,Graduate,Salaried,69353,720,432255,48,Yes,Rural,1
+25,Male,Graduate,Salaried,64996,828,337103,36,Yes,Urban,1
+55,Female,Graduate,Self-Employed,29031,603,344754,36,No,Semiurban,0
+32,Male,Graduate,Salaried,29536,338,265637,36,Yes,Urban,0
+45,Male,Graduate,Salaried,15446,788,462579,36,No,Semiurban,0
+41,Male,Not Graduate,Salaried,51683,841,189242,60,No,Rural,1
+56,Male,Graduate,Salaried,63555,577,475348,36,No,Semiurban,0
+43,Male,Graduate,Self-Employed,67261,502,253956,60,No,Rural,0
+36,Female,Graduate,Self-Employed,32618,365,379343,24,Yes,Urban,0
+59,Female,Not Graduate,Salaried,21587,407,160038,48,Yes,Semiurban,0
+59,Female,Not Graduate,Salaried,77790,567,157786,60,No,Urban,0
+34,Male,Graduate,Salaried,46480,521,471780,24,Yes,Semiurban,0
+51,Female,Not Graduate,Salaried,47994,829,336042,24,No,Rural,1
+25,Male,Graduate,Self-Employed,35527,389,411438,60,Yes,Semiurban,0
+55,Male,Graduate,Salaried,38569,554,309087,24,No,Semiurban,0
+43,Male,Not Graduate,Salaried,26151,754,265250,24,No,Rural,0
+49,Male,Not Graduate,Salaried,20558,552,505881,60,No,Rural,0
+31,Female,Graduate,Self-Employed,74174,556,362678,24,Yes,Rural,0
+38,Female,Graduate,Self-Employed,59739,682,453972,36,Yes,Semiurban,1
+32,Male,Graduate,Salaried,47954,741,398276,36,No,Urban,1
+29,Female,Not Graduate,Self-Employed,62448,389,477864,48,Yes,Semiurban,0
+30,Male,Graduate,Salaried,62327,689,398254,24,No,Semiurban,1
+37,Female,Graduate,Salaried,58837,343,289826,48,No,Urban,0
+58,Female,Graduate,Self-Employed,50303,318,425724,36,No,Rural,0
+27,Male,Graduate,Self-Employed,49700,400,515685,36,No,Semiurban,0
+33,Female,Graduate,Self-Employed,42500,656,426160,36,Yes,Urban,1
+29,Male,Not Graduate,Salaried,73192,841,146233,24,No,Rural,1
+47,Female,Graduate,Salaried,17032,332,596020,24,No,Rural,0
+22,Male,Graduate,Self-Employed,16252,528,492007,36,No,Semiurban,0
+25,Male,Graduate,Salaried,20509,823,297780,48,No,Rural,0
+49,Female,Not Graduate,Salaried,52842,454,551448,48,No,Rural,0
+57,Female,Graduate,Salaried,28900,722,324522,60,Yes,Urban,0
+58,Male,Graduate,Self-Employed,77456,545,579653,36,Yes,Urban,0
+39,Female,Not Graduate,Salaried,29523,704,206311,48,No,Rural,0
+28,Female,Not Graduate,Salaried,16881,840,134409,36,Yes,Urban,0
+21,Male,Not Graduate,Self-Employed,48037,460,346231,48,No,Rural,0
+42,Male,Not Graduate,Salaried,16630,416,512540,60,No,Semiurban,0
+37,Female,Graduate,Salaried,35789,570,501954,60,Yes,Urban,0
+27,Male,Not Graduate,Salaried,75547,786,596246,36,Yes,Rural,1
+45,Male,Graduate,Salaried,37523,471,386198,48,No,Rural,0
+24,Male,Not Graduate,Salaried,32958,573,129709,24,Yes,Urban,0
+56,Female,Not Graduate,Salaried,61151,558,209321,60,No,Urban,0
+26,Female,Not Graduate,Self-Employed,63920,434,578859,36,No,Semiurban,0
+51,Male,Graduate,Salaried,58852,721,100363,36,No,Rural,1
+39,Female,Graduate,Self-Employed,16695,720,372502,48,No,Semiurban,0
+59,Male,Graduate,Salaried,67410,485,594829,36,Yes,Semiurban,0
+47,Female,Not Graduate,Salaried,29821,663,496456,60,No,Semiurban,0
+30,Male,Not Graduate,Salaried,18262,677,565417,36,Yes,Urban,0
+46,Male,Graduate,Salaried,16445,822,145689,36,Yes,Semiurban,0
+39,Female,Graduate,Self-Employed,70415,495,364080,24,No,Urban,0
+59,Male,Graduate,Salaried,72563,397,474416,24,No,Urban,0
+23,Female,Not Graduate,Salaried,31436,321,191074,60,Yes,Semiurban,0
+33,Female,Not Graduate,Self-Employed,24949,749,275037,48,No,Semiurban,0
+48,Male,Graduate,Self-Employed,69722,471,308606,24,No,Rural,0
+40,Male,Graduate,Self-Employed,38963,682,100882,48,Yes,Semiurban,1
+48,Female,Not Graduate,Salaried,65818,433,513440,60,Yes,Rural,0
+28,Male,Not Graduate,Self-Employed,44932,725,467371,24,No,Semiurban,1
+59,Male,Graduate,Salaried,21901,324,354822,48,No,Semiurban,0
+21,Male,Graduate,Salaried,66937,802,225865,24,No,Semiurban,1
+23,Male,Graduate,Salaried,48487,484,223745,60,No,Semiurban,0
+33,Male,Graduate,Salaried,23597,384,524041,60,Yes,Rural,0
+48,Female,Graduate,Salaried,79095,443,563956,24,No,Rural,0
+45,Female,Graduate,Salaried,79508,711,128885,48,No,Semiurban,1
+53,Male,Not Graduate,Self-Employed,78909,523,271128,36,No,Semiurban,0
+58,Male,Graduate,Salaried,21855,519,496419,36,Yes,Rural,0
+26,Male,Not Graduate,Salaried,33678,478,291313,24,Yes,Urban,0
+52,Female,Graduate,Salaried,23263,732,495460,48,Yes,Urban,0
+41,Male,Graduate,Self-Employed,78293,564,460466,36,No,Urban,0
+36,Female,Graduate,Salaried,62288,728,430763,60,No,Rural,1
+41,Female,Graduate,Salaried,74397,715,121584,48,No,Rural,1
+31,Female,Not Graduate,Self-Employed,40805,752,370665,36,Yes,Urban,1
+57,Male,Not Graduate,Self-Employed,41143,496,281089,48,Yes,Urban,0
+56,Female,Graduate,Salaried,26874,352,395685,24,No,Semiurban,0
+55,Male,Graduate,Self-Employed,42529,779,129063,48,No,Rural,1
+39,Female,Not Graduate,Self-Employed,35866,742,170268,36,No,Rural,1
+40,Male,Graduate,Self-Employed,29079,629,356306,24,Yes,Urban,0
+38,Female,Graduate,Salaried,64850,550,226218,48,No,Urban,0
+34,Male,Not Graduate,Self-Employed,22243,422,480350,60,Yes,Rural,0
+35,Female,Graduate,Salaried,44872,686,558168,36,Yes,Semiurban,1
+51,Male,Graduate,Salaried,24018,638,324126,24,No,Urban,0
+21,Male,Graduate,Salaried,70070,647,270635,48,Yes,Rural,0
+23,Male,Not Graduate,Salaried,64500,328,270824,60,Yes,Rural,0
+36,Male,Graduate,Salaried,69526,334,326305,36,No,Semiurban,0
+43,Female,Graduate,Self-Employed,27100,817,495783,60,No,Semiurban,0
+31,Female,Not Graduate,Salaried,72021,695,509337,48,No,Urban,1
+32,Male,Graduate,Salaried,64459,593,494890,48,No,Urban,0
+30,Female,Not Graduate,Salaried,34800,648,176411,24,Yes,Urban,0
+52,Male,Graduate,Salaried,77590,446,209876,60,Yes,Rural,0
+36,Male,Not Graduate,Self-Employed,78400,366,559491,24,No,Urban,0
+28,Female,Graduate,Salaried,41910,819,298153,36,No,Rural,1
+58,Male,Graduate,Salaried,44437,421,260212,24,No,Urban,0
+32,Male,Graduate,Salaried,52588,639,240399,36,Yes,Semiurban,0
+44,Female,Graduate,Salaried,26001,474,563879,48,No,Semiurban,0
+48,Male,Not Graduate,Salaried,61675,750,123331,48,Yes,Rural,1
+28,Male,Not Graduate,Self-Employed,34942,435,123004,60,No,Semiurban,0
+48,Male,Graduate,Self-Employed,35862,315,338441,36,No,Rural,0
+56,Male,Graduate,Salaried,26669,632,481387,48,No,Rural,0
+46,Female,Not Graduate,Self-Employed,70683,494,503708,60,No,Semiurban,0
+28,Female,Not Graduate,Self-Employed,68772,795,548013,60,No,Rural,1
+48,Female,Graduate,Self-Employed,30916,308,289167,24,No,Semiurban,0
+48,Male,Graduate,Salaried,25878,633,506965,60,No,Urban,0
+57,Male,Graduate,Salaried,17985,632,425361,48,Yes,Urban,0
+56,Female,Graduate,Salaried,47369,626,189044,24,No,Semiurban,0
+47,Male,Graduate,Self-Employed,23112,314,371189,36,Yes,Semiurban,0
+37,Male,Graduate,Self-Employed,56235,525,382260,36,No,Semiurban,0
+29,Male,Graduate,Salaried,33931,724,118667,48,No,Semiurban,1
+53,Male,Not Graduate,Salaried,42340,707,437201,48,No,Urban,1
+40,Female,Graduate,Self-Employed,15336,412,174205,24,Yes,Rural,0
+33,Female,Graduate,Self-Employed,57933,727,127302,24,Yes,Rural,1
+48,Female,Graduate,Self-Employed,34363,300,504499,48,No,Urban,0
+49,Male,Graduate,Self-Employed,60536,565,262007,48,No,Rural,0
+33,Female,Graduate,Salaried,18968,790,172534,36,No,Urban,0
+55,Female,Graduate,Salaried,48678,507,325414,36,Yes,Rural,0
+26,Male,Graduate,Self-Employed,66148,668,262696,36,No,Semiurban,1
+38,Male,Graduate,Salaried,63400,605,113440,48,No,Semiurban,0
+25,Female,Graduate,Salaried,31279,311,473145,60,Yes,Semiurban,0
+45,Female,Graduate,Self-Employed,18129,644,408645,48,Yes,Urban,0
+22,Female,Not Graduate,Salaried,53215,764,580549,48,No,Urban,1
+30,Female,Graduate,Self-Employed,53897,793,494485,36,No,Rural,1
+50,Male,Not Graduate,Salaried,20850,667,370012,48,No,Rural,0
+25,Female,Graduate,Self-Employed,35588,719,261323,24,No,Rural,1
+53,Female,Graduate,Salaried,55214,470,440053,48,No,Urban,0
+21,Male,Graduate,Salaried,26949,433,184523,48,No,Rural,0
+38,Female,Graduate,Salaried,23519,726,269801,48,Yes,Semiurban,0
+52,Male,Not Graduate,Salaried,41375,324,115734,48,Yes,Rural,0
+31,Male,Not Graduate,Self-Employed,48082,829,273501,60,No,Semiurban,1
+41,Male,Not Graduate,Self-Employed,26737,489,272409,48,No,Urban,0
+46,Female,Graduate,Salaried,16134,440,533541,24,No,Semiurban,0
+45,Female,Graduate,Salaried,25938,614,445744,24,No,Semiurban,0
+42,Male,Graduate,Salaried,69028,743,555730,48,Yes,Semiurban,1
+47,Female,Graduate,Salaried,39486,618,370577,36,No,Urban,0
+33,Female,Graduate,Self-Employed,63356,740,240183,60,Yes,Urban,1
+53,Male,Graduate,Self-Employed,41096,391,203986,48,No,Urban,0
+54,Male,Graduate,Self-Employed,56115,478,425897,48,No,Urban,0
+55,Female,Graduate,Self-Employed,20592,355,213783,48,No,Rural,0
+21,Male,Not Graduate,Salaried,33108,454,311655,36,No,Urban,0
+41,Female,Not Graduate,Self-Employed,67495,410,566836,36,Yes,Semiurban,0
+26,Female,Not Graduate,Self-Employed,32270,436,383895,36,No,Urban,0
+48,Female,Graduate,Self-Employed,42649,531,247525,60,Yes,Rural,0
+37,Female,Graduate,Self-Employed,25997,767,316916,24,No,Rural,0
+25,Male,Graduate,Salaried,48489,780,532184,60,No,Rural,1
+51,Male,Not Graduate,Self-Employed,71830,367,261149,36,No,Semiurban,0
+25,Male,Graduate,Salaried,24104,548,339654,24,No,Urban,0
+58,Male,Graduate,Salaried,67509,622,527991,24,Yes,Urban,0
+23,Female,Not Graduate,Salaried,15870,817,289216,36,No,Urban,0
+43,Female,Graduate,Self-Employed,43684,731,410714,36,Yes,Semiurban,1
+57,Male,Graduate,Self-Employed,54519,786,277169,60,No,Semiurban,1
+57,Female,Graduate,Self-Employed,64649,728,386647,36,Yes,Rural,1
+30,Female,Graduate,Self-Employed,49524,568,233851,24,Yes,Rural,0
+30,Female,Graduate,Salaried,45957,836,448984,48,No,Urban,1
+39,Male,Graduate,Self-Employed,48885,447,231827,36,No,Semiurban,0
+37,Male,Graduate,Salaried,59369,417,401407,36,Yes,Semiurban,0
+41,Male,Graduate,Salaried,50596,666,470635,60,Yes,Urban,1
+34,Female,Not Graduate,Salaried,44866,365,417231,60,No,Urban,0
+29,Male,Graduate,Self-Employed,45676,669,535497,36,Yes,Rural,1
+21,Male,Graduate,Self-Employed,79093,474,151482,24,Yes,Rural,0
+33,Male,Graduate,Salaried,62764,794,548073,24,No,Rural,1
+24,Male,Not Graduate,Salaried,65799,413,222989,48,Yes,Urban,0
+21,Male,Graduate,Self-Employed,28878,410,510616,36,No,Urban,0
+52,Male,Graduate,Salaried,54760,738,402259,60,No,Rural,1
+54,Female,Not Graduate,Self-Employed,42559,446,376393,24,No,Rural,0
+48,Female,Not Graduate,Self-Employed,61546,334,344255,48,No,Semiurban,0
+51,Male,Graduate,Salaried,21771,608,540041,36,No,Semiurban,0
+28,Male,Not Graduate,Salaried,31526,837,210361,24,Yes,Rural,1
+59,Female,Graduate,Self-Employed,44896,313,386744,36,Yes,Rural,0
+46,Female,Graduate,Self-Employed,46923,673,399850,36,No,Semiurban,1
+54,Male,Graduate,Salaried,66913,727,381366,24,Yes,Rural,1
+23,Male,Graduate,Self-Employed,51203,532,461185,24,No,Semiurban,0
+32,Male,Not Graduate,Salaried,54390,739,466648,24,No,Semiurban,1
+21,Male,Graduate,Salaried,27852,801,141139,36,Yes,Semiurban,0
+25,Female,Graduate,Self-Employed,62574,574,214919,36,No,Urban,0
+50,Male,Not Graduate,Self-Employed,58391,375,347677,48,No,Urban,0
+50,Male,Not Graduate,Salaried,78155,738,403446,60,No,Rural,1
+37,Male,Graduate,Self-Employed,71221,588,325756,36,No,Semiurban,0
+43,Male,Graduate,Salaried,68664,839,449982,60,No,Urban,1
+35,Female,Graduate,Salaried,16848,552,561375,24,No,Rural,0
+57,Female,Not Graduate,Salaried,46027,425,239718,36,No,Rural,0
+41,Female,Graduate,Self-Employed,50464,476,244615,48,No,Rural,0
+34,Male,Not Graduate,Salaried,49485,336,325568,48,Yes,Rural,0
+22,Male,Graduate,Salaried,77830,709,253857,60,Yes,Rural,1
+31,Female,Graduate,Salaried,34456,426,440497,24,No,Semiurban,0
+59,Male,Graduate,Self-Employed,24259,782,524622,60,Yes,Rural,0
+58,Male,Graduate,Self-Employed,50554,467,451136,24,Yes,Semiurban,0
+54,Female,Graduate,Self-Employed,61922,593,413572,48,No,Urban,0
+58,Female,Not Graduate,Salaried,28409,642,123777,60,Yes,Rural,0
+54,Female,Graduate,Salaried,18791,609,157939,48,No,Urban,0
+38,Female,Graduate,Salaried,40864,827,546242,48,No,Semiurban,1
+50,Male,Not Graduate,Self-Employed,51639,839,448594,24,No,Semiurban,1
+35,Male,Graduate,Self-Employed,49574,718,522769,60,No,Urban,1
+47,Female,Not Graduate,Salaried,78627,743,123548,60,Yes,Rural,1
+54,Male,Graduate,Self-Employed,32888,535,556437,48,No,Rural,0
+58,Female,Graduate,Salaried,34692,738,530481,48,No,Urban,1
+53,Female,Graduate,Salaried,38501,513,225549,24,No,Urban,0
+44,Male,Graduate,Salaried,28304,384,533917,36,No,Urban,0
+35,Female,Not Graduate,Salaried,69200,384,544503,36,Yes,Rural,0
+50,Male,Graduate,Salaried,42527,788,237799,48,No,Rural,1
+37,Male,Graduate,Salaried,72415,364,341532,36,Yes,Rural,0
+25,Male,Graduate,Salaried,33074,363,281789,36,No,Urban,0
+49,Male,Graduate,Self-Employed,30549,642,525643,36,No,Rural,0
+24,Female,Not Graduate,Salaried,44963,651,247764,36,Yes,Semiurban,1
+30,Male,Graduate,Salaried,40920,457,131625,48,Yes,Urban,0
+37,Female,Graduate,Self-Employed,45826,790,387062,36,Yes,Rural,1
+30,Female,Not Graduate,Salaried,51071,762,534352,36,No,Urban,1
+37,Female,Graduate,Salaried,67265,524,476970,24,No,Semiurban,0
+40,Female,Not Graduate,Self-Employed,31061,612,214881,48,Yes,Semiurban,0
+44,Male,Graduate,Salaried,73226,765,545625,60,No,Urban,1
+25,Male,Graduate,Salaried,43810,387,377721,60,Yes,Urban,0
+54,Female,Graduate,Salaried,75006,602,447299,24,No,Semiurban,0
+26,Female,Not Graduate,Self-Employed,72002,734,211776,24,Yes,Urban,1
+22,Male,Not Graduate,Salaried,62966,434,461390,48,No,Semiurban,0
+33,Female,Graduate,Self-Employed,37800,349,333996,60,No,Semiurban,0
+31,Male,Graduate,Salaried,65656,731,357831,36,No,Rural,1
+43,Female,Graduate,Salaried,58423,639,312803,24,No,Urban,0
+36,Male,Graduate,Salaried,74897,646,258761,60,No,Urban,0
+51,Female,Graduate,Self-Employed,56692,646,242226,48,No,Rural,0
+31,Female,Not Graduate,Salaried,24940,544,597873,36,No,Semiurban,0
+36,Male,Graduate,Salaried,18924,408,457092,48,No,Urban,0
+28,Female,Graduate,Salaried,72767,832,121341,24,No,Rural,1
+24,Female,Graduate,Salaried,43054,389,459698,60,Yes,Rural,0
+24,Male,Graduate,Self-Employed,24783,595,305753,60,No,Urban,0
+45,Female,Graduate,Salaried,52253,411,469942,60,Yes,Rural,0
+23,Male,Graduate,Salaried,60397,476,408474,60,No,Semiurban,0
+52,Male,Not Graduate,Salaried,28233,642,349141,36,No,Rural,0
+23,Female,Graduate,Self-Employed,60669,400,449903,36,No,Semiurban,0
+47,Female,Graduate,Salaried,39484,700,299488,48,Yes,Semiurban,1
+49,Female,Graduate,Salaried,40068,327,356139,36,Yes,Urban,0
+52,Female,Not Graduate,Self-Employed,15191,836,448951,24,No,Rural,0
+39,Female,Not Graduate,Self-Employed,40074,357,395457,24,No,Semiurban,0
+41,Female,Graduate,Salaried,19917,797,409044,60,Yes,Semiurban,0
+25,Female,Not Graduate,Salaried,53599,596,178840,24,No,Rural,0
+38,Male,Graduate,Salaried,40832,433,265767,48,No,Semiurban,0
+48,Female,Graduate,Salaried,57928,630,261297,36,No,Rural,0
+42,Male,Graduate,Salaried,35706,548,448216,36,Yes,Urban,0
+41,Female,Graduate,Salaried,28682,849,458511,36,No,Semiurban,0
+26,Female,Graduate,Salaried,41762,374,149156,24,Yes,Semiurban,0
+21,Male,Not Graduate,Salaried,38383,467,308281,36,No,Rural,0
+25,Female,Not Graduate,Self-Employed,73160,802,187453,60,Yes,Rural,1
+32,Female,Graduate,Self-Employed,42796,654,258901,60,Yes,Rural,1
+46,Male,Graduate,Salaried,38666,524,574124,60,Yes,Rural,0
+54,Female,Graduate,Salaried,73817,830,125938,24,Yes,Semiurban,1
+34,Female,Graduate,Salaried,40662,445,159164,36,No,Urban,0
+46,Female,Graduate,Self-Employed,60159,540,547746,24,Yes,Urban,0
+47,Male,Graduate,Salaried,49642,643,299271,36,Yes,Urban,0
+29,Female,Graduate,Salaried,56830,334,160282,48,No,Urban,0
+46,Female,Not Graduate,Salaried,52531,300,409945,48,Yes,Rural,0
+42,Female,Graduate,Salaried,25234,452,502681,24,Yes,Semiurban,0
+50,Female,Graduate,Salaried,72616,728,365470,60,No,Semiurban,1
+37,Male,Not Graduate,Salaried,24221,807,496875,24,No,Semiurban,0
+46,Male,Graduate,Salaried,26410,425,553505,60,No,Rural,0
+56,Female,Graduate,Self-Employed,29519,790,258666,36,No,Semiurban,0
+21,Female,Graduate,Salaried,76413,781,215819,60,No,Rural,1
+28,Male,Graduate,Self-Employed,16051,644,366907,60,Yes,Semiurban,0
+55,Male,Not Graduate,Self-Employed,59993,520,581873,36,No,Urban,0
+35,Female,Graduate,Salaried,24765,324,241900,48,No,Rural,0
+42,Male,Graduate,Salaried,26382,827,409732,36,No,Semiurban,0
+34,Female,Not Graduate,Salaried,27580,481,373365,24,No,Urban,0
+46,Male,Not Graduate,Salaried,71690,798,504427,24,Yes,Urban,1
+48,Male,Not Graduate,Self-Employed,71563,341,113569,24,No,Urban,0
+43,Male,Graduate,Self-Employed,47323,780,327966,24,No,Rural,1
+34,Male,Graduate,Salaried,59757,738,137860,24,No,Rural,1
+44,Female,Not Graduate,Salaried,75633,701,302630,48,Yes,Semiurban,1
+22,Male,Not Graduate,Self-Employed,70472,845,407481,48,Yes,Urban,1
+46,Male,Graduate,Self-Employed,79810,644,545527,60,Yes,Semiurban,0
+34,Female,Graduate,Self-Employed,26939,344,244587,24,No,Semiurban,0
+27,Male,Graduate,Salaried,66257,320,171695,36,Yes,Urban,0
+23,Male,Not Graduate,Salaried,44964,369,353078,24,Yes,Semiurban,0
+43,Female,Graduate,Self-Employed,15307,347,342599,48,No,Rural,0
+38,Male,Graduate,Self-Employed,71889,790,468893,24,Yes,Semiurban,1
+58,Female,Graduate,Salaried,18359,586,580443,48,No,Urban,0
+55,Female,Graduate,Salaried,44648,309,255976,60,Yes,Rural,0
+35,Female,Not Graduate,Salaried,50944,841,291007,60,No,Rural,1
+45,Female,Graduate,Salaried,49019,573,405934,60,No,Semiurban,0
+57,Male,Not Graduate,Salaried,53134,680,430724,48,No,Semiurban,1
+48,Female,Not Graduate,Self-Employed,42323,628,568364,24,No,Rural,0
+30,Male,Graduate,Salaried,65669,778,105636,24,Yes,Semiurban,1
+59,Male,Graduate,Self-Employed,21226,314,361578,36,Yes,Urban,0
+37,Male,Graduate,Salaried,36689,815,439273,48,Yes,Semiurban,1
+59,Male,Not Graduate,Self-Employed,45971,490,496108,36,No,Semiurban,0
+42,Male,Graduate,Self-Employed,40954,467,383816,60,No,Rural,0
+46,Male,Graduate,Salaried,70021,820,367956,24,No,Semiurban,1
+45,Male,Not Graduate,Salaried,39423,436,327693,48,No,Semiurban,0
+37,Male,Graduate,Salaried,45391,453,100654,36,Yes,Semiurban,0
+33,Male,Not Graduate,Salaried,29330,687,154633,36,No,Urban,0
+40,Male,Graduate,Self-Employed,19891,508,117143,36,No,Semiurban,0
+45,Female,Graduate,Self-Employed,19992,571,155934,24,Yes,Urban,0
+24,Female,Graduate,Salaried,16961,442,429478,24,No,Urban,0
+30,Female,Not Graduate,Salaried,27497,368,203463,24,Yes,Urban,0
+23,Male,Graduate,Salaried,67015,546,225851,48,No,Urban,0
+38,Female,Not Graduate,Self-Employed,47551,560,129087,24,No,Rural,0
+56,Female,Not Graduate,Salaried,25848,378,242690,48,Yes,Urban,0
+42,Female,Graduate,Salaried,74838,824,370590,36,No,Semiurban,1
+54,Male,Not Graduate,Salaried,70755,629,580398,36,Yes,Urban,0
+28,Male,Graduate,Salaried,28255,488,464271,60,No,Semiurban,0
+39,Male,Graduate,Salaried,19567,394,411011,24,No,Urban,0
+57,Male,Graduate,Self-Employed,63847,307,544244,36,Yes,Rural,0
+26,Female,Not Graduate,Salaried,54281,366,422245,24,No,Urban,0
+46,Female,Graduate,Salaried,63003,795,258272,48,No,Urban,1
+54,Female,Graduate,Self-Employed,35389,490,326179,36,Yes,Rural,0
+26,Female,Graduate,Self-Employed,59523,665,450218,24,Yes,Urban,1
+57,Male,Graduate,Salaried,73266,820,599307,36,No,Semiurban,1
+53,Male,Graduate,Salaried,76576,416,292537,36,No,Urban,0
+42,Male,Not Graduate,Salaried,76806,566,317508,24,Yes,Urban,0
+41,Female,Not Graduate,Salaried,58919,784,218422,36,Yes,Urban,1
+26,Male,Graduate,Salaried,31567,808,450036,36,Yes,Rural,1
+26,Male,Not Graduate,Salaried,71907,597,319631,36,No,Urban,0
+24,Female,Graduate,Salaried,18358,463,482188,36,Yes,Urban,0
+50,Female,Not Graduate,Self-Employed,37999,675,139148,48,Yes,Semiurban,1
+31,Male,Graduate,Salaried,57358,567,445072,36,No,Urban,0
+50,Male,Graduate,Self-Employed,70949,848,251770,60,No,Urban,1
+51,Male,Graduate,Salaried,25988,373,535686,36,Yes,Urban,0
+44,Male,Not Graduate,Self-Employed,72880,807,585287,24,No,Urban,1
+29,Male,Graduate,Self-Employed,55446,372,413804,60,No,Semiurban,0
+23,Male,Graduate,Self-Employed,46521,607,547126,48,Yes,Semiurban,0
+51,Female,Graduate,Self-Employed,20698,498,397594,60,Yes,Rural,0
+57,Female,Graduate,Self-Employed,16273,429,287535,60,No,Urban,0
+56,Female,Graduate,Salaried,42543,786,395901,60,Yes,Rural,1
+44,Male,Not Graduate,Salaried,70805,450,178012,24,No,Rural,0
+51,Female,Not Graduate,Salaried,46349,505,468894,24,No,Urban,0
+26,Male,Graduate,Self-Employed,26241,478,489187,24,Yes,Semiurban,0
+22,Male,Not Graduate,Self-Employed,65248,496,563463,48,Yes,Semiurban,0
+40,Female,Graduate,Salaried,24497,388,565231,24,No,Urban,0
+48,Male,Not Graduate,Salaried,56875,733,524606,24,No,Urban,1
+31,Male,Not Graduate,Salaried,47703,482,156116,60,No,Semiurban,0
+24,Female,Graduate,Self-Employed,79871,508,244233,24,No,Urban,0
+35,Female,Not Graduate,Salaried,59041,792,132152,36,Yes,Urban,1
+26,Female,Graduate,Salaried,46954,429,573387,24,No,Urban,0
+50,Male,Graduate,Salaried,23002,312,206379,48,No,Semiurban,0
+58,Female,Not Graduate,Salaried,19247,405,326905,48,No,Rural,0
+22,Female,Graduate,Self-Employed,56988,674,120836,36,Yes,Rural,1
+35,Male,Graduate,Self-Employed,36698,398,321439,48,Yes,Urban,0
+31,Female,Graduate,Self-Employed,74321,491,559759,48,No,Semiurban,0
+28,Female,Not Graduate,Salaried,34738,624,286720,60,No,Urban,0
+46,Female,Graduate,Salaried,25703,766,257403,36,Yes,Semiurban,0
+25,Male,Graduate,Salaried,63240,666,599208,60,Yes,Urban,1
+26,Male,Not Graduate,Self-Employed,64422,617,241835,60,No,Semiurban,0
+46,Male,Not Graduate,Salaried,32570,443,431588,24,No,Semiurban,0
+24,Male,Graduate,Salaried,76899,683,193109,36,Yes,Rural,1
+39,Female,Graduate,Salaried,27392,515,250259,24,Yes,Urban,0
+40,Male,Graduate,Self-Employed,59724,660,243029,24,Yes,Rural,1
+53,Male,Graduate,Salaried,47299,623,497595,60,No,Rural,0
+40,Female,Graduate,Self-Employed,30641,314,521175,48,No,Semiurban,0
+32,Female,Not Graduate,Salaried,28998,516,182018,36,No,Urban,0
+21,Female,Graduate,Salaried,21305,791,223076,48,No,Semiurban,0
+46,Male,Graduate,Salaried,47726,846,258177,60,Yes,Semiurban,1
+34,Male,Graduate,Salaried,33782,482,494093,60,No,Semiurban,0
+58,Male,Not Graduate,Salaried,27721,569,279425,60,No,Urban,0
+57,Female,Graduate,Salaried,54763,766,445932,60,Yes,Urban,1
+31,Female,Not Graduate,Salaried,27427,818,459014,60,Yes,Semiurban,0
+56,Male,Graduate,Self-Employed,61550,841,315657,60,No,Urban,1
+33,Female,Graduate,Salaried,71451,766,445452,48,No,Semiurban,1
+23,Female,Graduate,Self-Employed,35566,604,544783,24,Yes,Urban,0
+53,Female,Graduate,Salaried,74055,443,420057,48,No,Urban,0
+26,Male,Graduate,Self-Employed,17230,410,102637,36,No,Rural,0
+30,Female,Graduate,Salaried,21511,531,565994,48,Yes,Semiurban,0
+25,Female,Graduate,Salaried,64280,799,404169,60,Yes,Rural,1
+43,Male,Not Graduate,Salaried,57229,572,337989,48,Yes,Rural,0
+30,Male,Graduate,Salaried,67824,472,332259,24,No,Semiurban,0
+22,Female,Not Graduate,Salaried,41177,306,461652,36,Yes,Semiurban,0
+33,Female,Graduate,Self-Employed,19765,454,182464,48,Yes,Urban,0
+22,Male,Graduate,Self-Employed,35354,821,390886,24,No,Semiurban,1
+40,Male,Graduate,Self-Employed,38929,845,111831,48,No,Rural,1
+21,Female,Graduate,Self-Employed,43820,847,213768,36,Yes,Rural,1
+57,Female,Graduate,Salaried,61040,817,346983,48,No,Semiurban,1
+29,Female,Graduate,Salaried,44523,514,447236,60,No,Rural,0
+37,Female,Graduate,Salaried,20552,433,453023,48,No,Urban,0
+29,Male,Graduate,Salaried,15627,584,450514,24,No,Rural,0
+31,Female,Graduate,Salaried,26989,425,488681,48,Yes,Urban,0
+35,Female,Not Graduate,Salaried,28780,738,539978,24,No,Rural,0
+44,Male,Not Graduate,Salaried,21589,451,204824,36,No,Urban,0
+58,Female,Not Graduate,Salaried,49812,630,592174,48,No,Urban,0
+55,Male,Not Graduate,Self-Employed,43128,837,188741,36,No,Semiurban,1
+50,Female,Graduate,Self-Employed,60939,682,118830,36,No,Urban,1
+51,Female,Graduate,Salaried,66493,414,417188,48,Yes,Semiurban,0
+25,Male,Not Graduate,Self-Employed,53652,781,436092,24,No,Rural,1
+34,Male,Graduate,Self-Employed,42790,583,169202,36,No,Rural,0
+31,Female,Graduate,Salaried,55953,374,399189,36,No,Rural,0
+29,Female,Graduate,Salaried,15249,465,317394,48,Yes,Urban,0
+54,Female,Graduate,Salaried,34309,488,302123,48,No,Rural,0
+32,Male,Graduate,Self-Employed,69195,377,469653,48,No,Rural,0
+55,Female,Not Graduate,Self-Employed,65126,320,257699,48,Yes,Semiurban,0
+55,Male,Graduate,Salaried,40901,483,377342,48,No,Semiurban,0
+21,Male,Graduate,Salaried,38576,521,431665,60,No,Rural,0
+42,Female,Not Graduate,Salaried,46508,627,206471,48,No,Rural,0
+49,Male,Graduate,Salaried,24175,478,391619,24,No,Urban,0
+28,Female,Graduate,Salaried,40464,411,336824,36,No,Urban,0
+31,Female,Graduate,Self-Employed,75281,358,119403,24,Yes,Rural,0
+57,Female,Not Graduate,Self-Employed,31260,626,103681,24,No,Semiurban,0
+34,Female,Not Graduate,Self-Employed,74461,490,453699,60,No,Rural,0
+50,Female,Graduate,Self-Employed,50440,499,481028,48,No,Urban,0
+55,Male,Not Graduate,Self-Employed,44546,611,455266,36,No,Semiurban,0
+41,Male,Graduate,Salaried,55047,334,215260,24,No,Semiurban,0
+57,Female,Not Graduate,Salaried,71683,678,273364,48,Yes,Urban,1
+25,Female,Not Graduate,Salaried,73670,686,596273,48,No,Rural,1
+39,Male,Not Graduate,Self-Employed,56430,536,205386,60,Yes,Rural,0
+34,Male,Graduate,Salaried,16987,818,333378,60,Yes,Rural,0
+46,Male,Not Graduate,Self-Employed,64242,582,498845,60,Yes,Urban,0
+24,Male,Not Graduate,Salaried,40105,300,193246,36,No,Semiurban,0
+45,Female,Graduate,Salaried,27948,763,195864,24,Yes,Urban,0
+45,Female,Not Graduate,Salaried,68211,529,308886,60,Yes,Rural,0
+38,Male,Graduate,Salaried,28026,471,370561,60,Yes,Urban,0
+28,Female,Not Graduate,Self-Employed,17773,386,481032,60,Yes,Semiurban,0
+59,Male,Graduate,Self-Employed,60927,422,265837,24,No,Urban,0
+34,Female,Not Graduate,Salaried,24878,597,436643,24,No,Rural,0
+52,Male,Graduate,Salaried,72535,783,493052,60,Yes,Semiurban,1
+58,Female,Graduate,Salaried,57946,464,345160,60,No,Urban,0
+53,Male,Graduate,Salaried,75967,682,287646,48,No,Urban,1
+43,Male,Graduate,Salaried,71561,508,596044,60,No,Semiurban,0
+35,Female,Graduate,Self-Employed,25377,731,583761,36,Yes,Semiurban,0
+53,Male,Graduate,Salaried,68592,688,359278,36,No,Rural,1
+45,Female,Graduate,Salaried,22347,523,389819,60,Yes,Semiurban,0
+37,Female,Graduate,Salaried,48776,302,356681,24,Yes,Rural,0
+53,Male,Graduate,Salaried,18783,671,594927,48,Yes,Urban,0
+22,Female,Not Graduate,Salaried,70798,745,565483,24,No,Rural,1
+34,Female,Graduate,Salaried,19298,415,271635,60,Yes,Urban,0
+59,Female,Not Graduate,Salaried,19668,569,111332,36,Yes,Semiurban,0
+26,Female,Not Graduate,Salaried,35671,746,354817,48,Yes,Urban,1
+26,Female,Graduate,Salaried,49820,667,381321,24,No,Semiurban,1
+23,Male,Graduate,Salaried,70161,552,492704,24,No,Urban,0
+27,Female,Not Graduate,Salaried,75652,616,320326,60,Yes,Urban,0
+28,Female,Graduate,Self-Employed,49484,714,299519,48,No,Urban,1
+35,Female,Graduate,Salaried,48078,394,361849,36,No,Urban,0
+49,Female,Graduate,Salaried,79036,323,419248,60,No,Rural,0
+53,Female,Not Graduate,Salaried,62159,349,446479,48,Yes,Urban,0
+50,Male,Graduate,Salaried,35922,801,477082,24,No,Rural,1
+59,Female,Graduate,Salaried,49028,797,180730,60,Yes,Semiurban,1
+47,Male,Not Graduate,Self-Employed,60925,634,498167,24,No,Semiurban,0
+56,Male,Not Graduate,Self-Employed,35316,378,337474,24,Yes,Rural,0
+49,Male,Graduate,Salaried,26460,326,390477,60,Yes,Semiurban,0
+58,Male,Graduate,Salaried,31968,570,383817,60,Yes,Semiurban,0
+53,Female,Not Graduate,Salaried,45266,546,476565,60,No,Urban,0
+57,Male,Graduate,Self-Employed,75143,686,140870,60,Yes,Urban,1
+47,Male,Graduate,Salaried,45209,660,353017,60,No,Urban,1
+53,Female,Graduate,Salaried,39000,787,227536,24,Yes,Rural,1
+24,Female,Not Graduate,Salaried,72703,651,433245,36,No,Rural,1
+42,Female,Graduate,Salaried,29011,555,384965,36,No,Semiurban,0
+22,Male,Not Graduate,Salaried,17866,521,125494,60,No,Urban,0
+30,Female,Not Graduate,Salaried,62133,300,199477,24,No,Rural,0
+25,Female,Graduate,Salaried,20898,845,488227,36,No,Rural,0
+30,Male,Graduate,Self-Employed,33395,745,305232,36,Yes,Urban,1
+53,Female,Graduate,Salaried,54019,378,474842,36,No,Rural,0
+58,Female,Graduate,Salaried,52707,535,473704,24,Yes,Urban,0
+33,Female,Graduate,Self-Employed,19006,633,494051,60,No,Semiurban,0
+51,Female,Not Graduate,Salaried,49393,648,380790,60,No,Semiurban,0
+56,Male,Graduate,Salaried,25956,397,223777,60,Yes,Semiurban,0
+44,Female,Not Graduate,Salaried,65042,381,177360,48,Yes,Urban,0
+35,Female,Graduate,Salaried,45663,801,399479,48,No,Rural,1
+49,Male,Graduate,Self-Employed,21078,776,431495,48,No,Semiurban,0
+28,Female,Graduate,Salaried,44631,849,477078,24,No,Semiurban,1
+25,Male,Graduate,Salaried,45140,313,233501,36,No,Semiurban,0
+49,Female,Not Graduate,Salaried,71188,691,404094,36,No,Rural,1
+24,Male,Graduate,Salaried,77901,646,160654,24,No,Rural,0
+32,Male,Graduate,Self-Employed,56691,609,469566,24,Yes,Urban,0
+22,Male,Graduate,Salaried,18961,685,472078,60,Yes,Semiurban,0
+47,Male,Graduate,Salaried,44277,508,219975,60,No,Rural,0
+51,Female,Graduate,Self-Employed,66656,656,299215,48,No,Urban,1
+56,Male,Graduate,Salaried,56574,393,453330,48,No,Semiurban,0
+56,Female,Not Graduate,Self-Employed,67958,392,466378,24,No,Rural,0
+46,Male,Graduate,Self-Employed,46417,639,591105,48,Yes,Rural,0
+47,Male,Not Graduate,Self-Employed,37484,744,202326,36,No,Urban,1
+25,Male,Graduate,Salaried,33103,321,177527,24,Yes,Semiurban,0
+40,Female,Graduate,Salaried,44345,590,448848,24,Yes,Semiurban,0
+31,Male,Graduate,Self-Employed,61326,784,524315,36,No,Rural,1
+30,Female,Graduate,Salaried,54454,605,532601,60,Yes,Semiurban,0
+58,Female,Graduate,Salaried,16587,427,266991,60,No,Urban,0
+26,Female,Graduate,Self-Employed,71152,572,196952,36,No,Rural,0
+28,Female,Graduate,Self-Employed,57571,741,422926,36,No,Rural,1
+43,Female,Graduate,Salaried,65048,802,433260,48,Yes,Urban,1
+46,Female,Graduate,Salaried,69710,429,565806,24,Yes,Rural,0
+32,Female,Not Graduate,Salaried,72621,431,451770,48,Yes,Semiurban,0
+46,Female,Graduate,Self-Employed,36031,781,533603,36,No,Semiurban,1
+33,Female,Graduate,Self-Employed,41212,689,246895,48,No,Rural,1
+38,Male,Graduate,Salaried,25350,624,146015,36,No,Urban,0
+45,Male,Graduate,Salaried,33816,368,202877,48,Yes,Urban,0
+53,Male,Graduate,Self-Employed,35288,747,377483,48,No,Semiurban,1
+32,Male,Graduate,Salaried,44432,827,234563,60,Yes,Urban,1
+56,Male,Graduate,Salaried,59222,464,493922,36,Yes,Rural,0
+24,Female,Graduate,Self-Employed,63617,787,197493,48,No,Rural,1
+25,Female,Graduate,Salaried,21837,725,246800,24,No,Semiurban,0
+57,Female,Graduate,Salaried,49217,564,500213,48,Yes,Semiurban,0
+28,Female,Graduate,Salaried,35884,641,596753,48,Yes,Semiurban,0
+48,Female,Graduate,Salaried,20454,577,291480,24,No,Urban,0
+51,Female,Graduate,Self-Employed,24424,738,551313,36,Yes,Rural,0
+29,Female,Not Graduate,Salaried,51885,456,491670,60,Yes,Rural,0
+49,Male,Graduate,Self-Employed,56637,721,531739,60,No,Rural,1
+34,Male,Graduate,Salaried,58618,550,221648,60,No,Semiurban,0
+42,Male,Graduate,Salaried,33412,829,387307,24,No,Rural,1
+31,Male,Not Graduate,Salaried,77671,626,248790,48,No,Urban,0
+43,Female,Graduate,Salaried,62111,396,187508,36,No,Urban,0
+21,Female,Graduate,Salaried,54613,812,314839,48,Yes,Rural,1
+57,Female,Graduate,Salaried,35142,515,401763,60,No,Semiurban,0
+41,Male,Graduate,Salaried,70056,431,374270,48,No,Rural,0
+46,Female,Graduate,Salaried,52392,559,582347,24,Yes,Urban,0
+56,Female,Graduate,Self-Employed,74381,424,164926,24,No,Urban,0
+43,Female,Not Graduate,Self-Employed,74993,381,140633,36,Yes,Urban,0
+21,Male,Graduate,Self-Employed,78116,582,308726,36,Yes,Rural,0
+35,Female,Not Graduate,Salaried,23848,358,103317,60,Yes,Urban,0
+41,Male,Not Graduate,Salaried,64317,843,407124,36,No,Semiurban,1
+29,Male,Graduate,Self-Employed,28136,460,406259,48,No,Rural,0
+29,Male,Graduate,Salaried,68743,583,292718,24,No,Rural,0
+30,Male,Graduate,Salaried,15589,405,405302,24,No,Urban,0
+46,Female,Graduate,Self-Employed,35908,404,287035,24,Yes,Urban,0
+55,Male,Graduate,Self-Employed,66973,738,540847,36,Yes,Semiurban,1
+45,Male,Not Graduate,Salaried,76602,527,280388,24,Yes,Rural,0
+46,Female,Not Graduate,Salaried,21509,617,467508,24,Yes,Urban,0
+31,Female,Graduate,Self-Employed,55461,763,552558,24,Yes,Semiurban,1
+58,Male,Graduate,Salaried,57222,771,377648,60,No,Urban,1
+22,Female,Not Graduate,Self-Employed,64223,355,299665,60,No,Rural,0
+27,Male,Not Graduate,Self-Employed,59476,312,519876,36,No,Urban,0
+38,Male,Not Graduate,Self-Employed,60710,739,399340,24,Yes,Rural,1
+47,Male,Graduate,Salaried,67732,317,428082,36,No,Urban,0
